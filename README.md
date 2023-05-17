@@ -20,6 +20,7 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features ](#-future-features-)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -106,6 +107,15 @@ To run the project, execute the following command:
 - GitHub:[![Kashif](https://img.shields.io/badge/-Kashif-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Kashif-Saleem-Ghuman)
 - Twitter:[![Kashif](https://img.shields.io/badge/-Kashif-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/Kashif14Saleem)
 - LinkedIn:[![Kashif](https://img.shields.io/badge/-Kashif-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/kashifsaleemghuman/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add a form to create a greeting**
+- [ ] **Add more greetings**
+- [ ] **Some UX improvements: include transitions and/or animations, etc.**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
